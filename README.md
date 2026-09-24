@@ -33,6 +33,7 @@ On September 23, Ivan corrected the framing: **hotels are the vehicle, not the t
 | `10-ideas/10-IDEAS.md` | The 10 launch video concepts, in launch sequence, with verify flags |
 | `10-ideas/WINNING-REFERENCES.md` | The winning YouTube reference database: 10 proven videos, templates extracted, agent instructions |
 | `10-ideas/reference-thumbnails/` | The actual winning thumbnails (1280×720) for the 10 references |
+| `strategy-call/strategy-call-transcript.md` | Full transcript of the September 16, 2026 strategy call (Ivan, Haziel, Kush) — the strategic source of truth for the new direction |
 
 ## The 10 ideas — how they were made
 
@@ -84,7 +85,7 @@ Hand this repo to an AI (or a strategist) so it can:
 
 ## Known caveats
 
-- The **strategy-call transcript itself is not in this repo** (private business conversation).
+- The strategy-call transcript has apparent diarization errors and is unreconciled against the recording — speaker labels may be wrong in places.
 - Transcripts are normalized from YouTube captions; expect minor errors.
 - 7 hashtag Shorts are missing from the corpus (unrecovered).
 - Related concept work had title-template defects under correction (unverified figures in some draft titles) — treat any numbers in derivative materials as unverified until confirmed by Kush.
